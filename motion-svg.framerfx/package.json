@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "3381d3f0-f6d5-4223-98ad-a9c2ddce3469"
+	},
+	"author": ". ruucm",
+	"dependencies": {
+		"framer-motion": "^1.6.1"
+	}
+}
